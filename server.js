@@ -25,3 +25,5 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/googlebooks", {
 app.listen(PORT, () => {
   console.log(`🌎 ==> API server now on port ${PORT}!`);
 });
+
+// MONGODB_URI=mongodb+srv://niroshan:niro7517@cluster0.to55p.mongodb.net/googlebook?retryWrites=true&w=majority
