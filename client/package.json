@@ -2,7 +2,7 @@
   "name": "googlebook_search",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://localhost:3001/",
+  "proxy": "http://localhost:3003/",
   "dependencies": {
     "@babel/runtime": "^7.0.0-beta.55",
     "axios": "^0.18.0",
